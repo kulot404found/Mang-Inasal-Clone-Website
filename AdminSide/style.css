@@ -1,0 +1,55 @@
+.nabar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #9acd32;
+    height: 80px;
+}
+
+.nabar h2 {
+    margin-right: 55%;
+    margin-left: -5%;
+    text-decoration: none;
+    color: white;
+    margin-top: -1px;
+}
+
+.items .btn1 {
+    background-color: red;
+    color: #000;
+    width: 150%;
+    height: 6vh;
+    border-radius: 1rem;
+    border: none;
+    font-weight: bolder;
+}
+
+.items .btn1:hover {
+    box-shadow: 0 0 5px yellow, 0 0 25px yellow, 0 0 50px yellow, 0 0 100px yellow, 0 0 200px yellow;
+}
+
+.items .btn2 {
+    background-color: yellow;
+    color: #000;
+    width: 150%;
+    height: 6vh;
+    border-radius: 1rem;
+    border: none;
+    font-weight: bolder;
+}
+
+.items .btn2:hover {
+    box-shadow: 0 0 5px red, 0 0 25px red, 0 0 50px red, 0 0 100px red, 0 0 200px red;
+}
+
+
+.list {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    padding: 50px;
+}
+
+.container ul {
+    
+}
