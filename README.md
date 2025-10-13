@@ -20,10 +20,11 @@ This project replicates core features of a typical quick-service restaurant webs
 - Database: MySQL
 - Optional: Composer (PHP packages), PHPMailer
 
-👩‍💻 Developer
+# 👩‍💻 Developer
 Rhon Jon G. Romero 
 📫 ejromero294@gmail.com 
 💼 (https://github.com/Git-branches)
+
 
 
 
